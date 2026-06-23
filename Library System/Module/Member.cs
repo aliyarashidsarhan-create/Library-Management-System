@@ -12,7 +12,7 @@ namespace Library_System.Module
         public string memberName { get; set; }//user input
         public string memberPhone { get; set; }//user input
         public string memberEmail { get; set; }//user input
-        public int numBorrowBook { get; set; }//calculate
+        public int numBorrowBook { get; set; }//calculate ,defult 0
         public string registerDate { get; set; }//system generate
         public bool isActive { get; set; }//default
     }

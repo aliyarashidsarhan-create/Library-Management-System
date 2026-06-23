@@ -12,7 +12,7 @@ namespace Library_System.Module
         public string title { get; set; } //user input
         public string author { get; set; }//user input
         public int totalCopies { get; set; }//user input
-        public int availabelBook { get; set; }//calculat
+        public int availabelBook { get; set; }//defult
         public int borrowCount { get; set; }//defult
     }
 }

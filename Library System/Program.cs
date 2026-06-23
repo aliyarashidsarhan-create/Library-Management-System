@@ -13,7 +13,8 @@ namespace Library_System
             Loans=new List<Loan>(),
             Reservations=new List<Reservation>()
         };
-
+        //----------------------------------------------
+        //Register Member
         public static void RegisterMember()
         {
             Console.WriteLine("\n=== Register New Member ===");
@@ -42,6 +43,35 @@ namespace Library_System
             });
             Console.WriteLine($"Member register successfully .With Id:{memberId}");
         }
+        //------------------------------------------
+        //add book
+        public static void AddBook()
+        {
+            Console.WriteLine("\n=== Add New Book ===");
+
+            Console.WriteLine("Enter Book Title");
+            string title = Console.ReadLine();
+
+            Console.WriteLine("Enter auther");
+            string author= Console.ReadLine();
+
+            Console.WriteLine("Enter Total copy");
+            int copies=int .Parse(Console.ReadLine());
+
+            int bookId = context.Books.Count + 1;
+            context.Books.Add(new Book
+            {
+              bookId = bookId,
+              title=title,
+              author=author,
+              totalCopies=copies,
+              availabelBook=copies,
+              borrowCount=0,
+
+            });
+            Console.WriteLine($"Book added Sucessfully with Id:{bookId}");
+            }
+        //-----------------------------------------------------
         static void Main(string[] args)
         {
             bool exit=false;
@@ -66,7 +96,7 @@ namespace Library_System
                 switch(option) 
                 {
                     case 1: RegisterMember();break;
-                    case 2:  break;
+                    case 2: AddBook(); break;
                     case 3: break;
                     case 4:  break;
                     case 5: break;
@@ -90,4 +120,5 @@ namespace Library_System
         }
     }
 }
+
 
