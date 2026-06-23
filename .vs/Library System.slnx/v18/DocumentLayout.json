@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aliya\\OneDrive\\Desktop\\back\\Library Mangement System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E52D6E6-8842-4D78-BBE3-A045B9F882AE}|Library System\\Library System.csproj|c:\\users\\aliya\\onedrive\\desktop\\back\\library mangement system\\library system\\module\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E52D6E6-8842-4D78-BBE3-A045B9F882AE}|Library System\\Library System.csproj|solutionrelative:library system\\module\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E52D6E6-8842-4D78-BBE3-A045B9F882AE}|Library System\\Library System.csproj|c:\\users\\aliya\\onedrive\\desktop\\back\\library mangement system\\library system\\module\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E52D6E6-8842-4D78-BBE3-A045B9F882AE}|Library System\\Library System.csproj|solutionrelative:library system\\module\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E52D6E6-8842-4D78-BBE3-A045B9F882AE}|Library System\\Library System.csproj|c:\\users\\aliya\\onedrive\\desktop\\back\\library mangement system\\library system\\module\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E52D6E6-8842-4D78-BBE3-A045B9F882AE}|Library System\\Library System.csproj|solutionrelative:library system\\module\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E52D6E6-8842-4D78-BBE3-A045B9F882AE}|Library System\\Library System.csproj|c:\\users\\aliya\\onedrive\\desktop\\back\\library mangement system\\library system\\module\\loans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E52D6E6-8842-4D78-BBE3-A045B9F882AE}|Library System\\Library System.csproj|solutionrelative:library system\\module\\loans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E52D6E6-8842-4D78-BBE3-A045B9F882AE}|Library System\\Library System.csproj|c:\\users\\aliya\\onedrive\\desktop\\back\\library mangement system\\library system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E52D6E6-8842-4D78-BBE3-A045B9F882AE}|Library System\\Library System.csproj|solutionrelative:library system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\aliya\\OneDrive\\Desktop\\back\\Library Mangement System\\Library System\\Module\\Reservation.cs",
+              "RelativeDocumentMoniker": "Library System\\Module\\Reservation.cs",
+              "ToolTip": "C:\\Users\\aliya\\OneDrive\\Desktop\\back\\Library Mangement System\\Library System\\Module\\Reservation.cs",
+              "RelativeToolTip": "Library System\\Module\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T04:59:23.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Loans.cs",
+              "DocumentMoniker": "C:\\Users\\aliya\\OneDrive\\Desktop\\back\\Library Mangement System\\Library System\\Module\\Loans.cs",
+              "RelativeDocumentMoniker": "Library System\\Module\\Loans.cs",
+              "ToolTip": "C:\\Users\\aliya\\OneDrive\\Desktop\\back\\Library Mangement System\\Library System\\Module\\Loans.cs",
+              "RelativeToolTip": "Library System\\Module\\Loans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T04:59:03.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\aliya\\OneDrive\\Desktop\\back\\Library Mangement System\\Library System\\Module\\Member.cs",
+              "RelativeDocumentMoniker": "Library System\\Module\\Member.cs",
+              "ToolTip": "C:\\Users\\aliya\\OneDrive\\Desktop\\back\\Library Mangement System\\Library System\\Module\\Member.cs",
+              "RelativeToolTip": "Library System\\Module\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T04:58:36.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\aliya\\OneDrive\\Desktop\\back\\Library Mangement System\\Library System\\Module\\Book.cs",
+              "RelativeDocumentMoniker": "Library System\\Module\\Book.cs",
+              "ToolTip": "C:\\Users\\aliya\\OneDrive\\Desktop\\back\\Library Mangement System\\Library System\\Module\\Book.cs",
+              "RelativeToolTip": "Library System\\Module\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T04:58:13.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aliya\\OneDrive\\Desktop\\back\\Library Mangement System\\Library System\\Program.cs",
+              "RelativeDocumentMoniker": "Library System\\Program.cs",
+              "ToolTip": "C:\\Users\\aliya\\OneDrive\\Desktop\\back\\Library Mangement System\\Library System\\Program.cs",
+              "RelativeToolTip": "Library System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T04:47:15.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
