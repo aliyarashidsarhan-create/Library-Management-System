@@ -10,8 +10,8 @@ namespace Library_System
     public  class LibraryContext
     {
         public List<Book> Books {  get; set; }
-        public List<Member> members { get; set; }
-        public List<Loan> loans { get; set; }
-        public List<Reservation> reservations { get; set; }
+        public List<Member> Members { get; set; }
+        public List<Loan> Loans { get; set; }
+        public List<Reservation> Reservations { get; set; }
     }
 }
